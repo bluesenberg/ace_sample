@@ -1,0 +1,11 @@
+{
+	"name": "Mphasis-Javelina",
+	"index": "/index.html",
+	"icon": "/icon.png",
+	"author": {
+		"name": "firiondo",
+		"email": "felipe.iriondo@comm100.com"
+	},
+	"version": "1.0",
+	"manifestVersion": "1.0"
+}
